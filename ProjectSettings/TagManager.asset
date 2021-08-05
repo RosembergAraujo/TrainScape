@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - PlayerHealthBar
+  - ActorName
+  - Speech
+  - Profile
+  - DialogueInCanvas
+  - AN
+  - Mud_Slime_Spawner
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Leader
+  - Enemy
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: preBG
+    uniqueID: 1885311301
+    locked: 0
+  - name: BG
+    uniqueID: 2112524223
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: NPC
+    uniqueID: 227842383
+    locked: 0
+  - name: Player
+    uniqueID: 2115382047
+    locked: 0
+  - name: Enemys
+    uniqueID: 3232752225
+    locked: 0
+  - name: 'Frente '
+    uniqueID: 1474463677
+    locked: 0
